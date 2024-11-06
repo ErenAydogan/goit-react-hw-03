@@ -1,0 +1,9 @@
+.header
+{
+    @apply w-full ml-auto mr-auto pt-3 pb-3;
+}
+
+.main
+{
+    @apply w-full ml-auto mr-auto pt-3 pb-3;
+}

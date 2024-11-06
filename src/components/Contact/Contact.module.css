@@ -1,0 +1,19 @@
+.contact-container
+{
+    @apply w-[300px] flex items-center justify-between border border-solid border-black p-4 rounded;
+}
+
+.contact-info
+{
+    @apply flex flex-col gap-2;
+}
+
+.info-icon
+{
+    @apply mr-3;
+}
+
+.delete-icon
+{
+    @apply text-xl;
+}
